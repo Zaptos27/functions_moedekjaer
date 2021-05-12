@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="functions_moedekjaer-Zaptos", 
-    version="0.0.1",
+    name="modekjar", 
+    version="0.0.3",
     author="Mikkel Møller Mødekjær",
     author_email="MikkelMM99@gmail.com",
     description="Just a small function package for numpy, sympy and iminuit",
