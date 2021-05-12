@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "numpy",
+    "sympy",
+    "matplotlib",
+    "seaborn",
+    "iminuit"
+]
+build-backend = "setuptools.build_meta"
